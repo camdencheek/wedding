@@ -22,10 +22,21 @@ text-transform : uppercase;
     text-align:center;
     font-size:20px;
 }
+#thanks_p {
+	text-align:center;
+}
 #ourstory_sec {
     background: #f0f0f0;
     padding-bottom: 30px;
     padding-top: 20px
+}
+#hashtag_sec {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	background: #ffffff;
+}
+#ft_sec {
+	background: #f0f0f0;
 }
 a:hover {
 text-decoration : none;
@@ -819,7 +830,7 @@ font-weight : normal;
 text-transform : uppercase;
 }
 #ft_sec {
-padding : 70px 0;
+padding : 20px 0;
 }
 .copy_right {
 margin : 0;
