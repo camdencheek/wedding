@@ -25,6 +25,14 @@ text-transform : uppercase;
 #thanks_p {
 	text-align:center;
 }
+#enlarge {
+	padding-top: 0px;
+	margin-top: 0px;
+}
+#gallery {
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
 #ourstory_sec {
     background: #f0f0f0;
     padding-bottom: 30px;
