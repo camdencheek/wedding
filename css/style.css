@@ -687,12 +687,6 @@ color : #555555;
 font-size : 14px;
 text-transform : uppercase;
 }
-.lts_pst a {
-border-bottom : 1px solid #333333;
-color : #333333;
-font-family : lato;
-text-transform : capitalize;
-}
 .lts_pst a:hover {
 border-bottom : 1px solid #00AFF0;
 }
