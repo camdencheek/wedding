@@ -76,6 +76,9 @@ text-transform : uppercase;
 	margin-left:-15px;
 	margin-right:-15px;
 }
+.where_we_registered h2 {
+	text-align:center;
+}
 /* End Registry */
 
 #ft_sec {
