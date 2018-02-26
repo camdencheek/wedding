@@ -17,6 +17,7 @@ text-transform : capitalize;
 font-weight : 800;
 text-transform : uppercase;
 }
+/* index.html */
 #pictures_p {
     padding-top:15px;
     text-align:center;
@@ -34,14 +35,23 @@ text-transform : uppercase;
 	margin-bottom: 0px;
 }
 #ourstory_sec {
-    background: #f0f0f0;
-    padding-bottom: 30px;
+    background: #ffffff;
+    /*padding-bottom: 30px;*/
+    padding-bottom: 20px;
     padding-top: 20px
 }
 #hashtag_sec {
 	margin-top: 20px;
-	margin-bottom: 10px;
-	background: #ffffff;
+	padding-top: 20px;
+	/* uncomment this if the color is white */
+	/*margin-bottom: 10px;*/ 
+	padding-bottom: 0px;
+	background: #f0f0f0;
+}
+#afterparty_sec {
+	padding-top: 20px;
+	padding-bottom: 30px;
+	background: #f0f0f0;	
 }
 
 /* Registry */
