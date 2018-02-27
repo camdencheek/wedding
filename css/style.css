@@ -35,23 +35,25 @@ text-transform : uppercase;
 	margin-bottom: 0px;
 }
 #ourstory_sec {
-    background: #ffffff;
+    background: #f0f0f0;
     /*padding-bottom: 30px;*/
     padding-bottom: 20px;
     padding-top: 20px
 }
 #hashtag_sec {
-	margin-top: 20px;
 	padding-top: 20px;
 	/* uncomment this if the color is white */
 	/*margin-bottom: 10px;*/ 
 	padding-bottom: 0px;
-	background: #f0f0f0;
+	background: #white;
+}
+#registry_sec {
+    background:#f0f0f0;
 }
 #afterparty_sec {
 	padding-top: 20px;
 	padding-bottom: 30px;
-	background: #f0f0f0;	
+	background: white;	
 }
 
 /* Registry */
