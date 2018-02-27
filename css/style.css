@@ -57,11 +57,11 @@ text-transform : uppercase;
 }
 
 /* Registry */
-#store_sec {
+#where_we_registered_sec {
 	margin-top: 15px;
 	padding-top: 15px; 
 	padding-bottom: 20px; 
-	background: #f0f0f0;
+	background: #ffffff;
 }
 #hashtag_sec_registry {
 	background: #ffffff;
@@ -69,6 +69,8 @@ text-transform : uppercase;
 }
 #honeymoon_sec {
 	padding-top: 15px; 
+    padding-bottom:20px;
+    background: #f0f0f0;
 }
 .row2 {
 	margin-left:-15px;
